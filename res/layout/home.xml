@@ -11,19 +11,5 @@
     android:gravity="center"
     android:textSize="20dip"
     />
-<EditText 
-     android:layout_width="fill_parent"
-     android:layout_height="wrap_content"
-     android:password="true"
-     android:hint="Password"
-      android:id="@+id/pwd"
-       />
-<Button 
-    android:layout_width="fill_parent"
-    android:layout_height="wrap_content"
-    android:text="Show Toast"
-    android:id="@+id/submit"
-    android:onClick="myClickHandler"
-    />
 </LinearLayout>
 
